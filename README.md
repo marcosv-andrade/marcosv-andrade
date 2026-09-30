@@ -1,9 +1,8 @@
 # Olá, eu sou o Marcos 👋
 
-Estou começando minha jornada em programação e uso este espaço para compartilhar o que aprendo e construo.
+Sou estudante do curso de Programação de Computadores. Uso este espaço para registrar meus estudos e os projetos que desenvolvo ao longo do curso.
 
-- 📚 Estudando lógica de programação e Python
-- 🤖 Interesse em automação e inteligência artificial
-- 🛠️ Próximo passo: publicar pequenos projetos e registrar meu progresso
+- 📚 Aprendendo lógica de programação e Python
+- 🛠️ Próximo passo: publicar pequenos exercícios e projetos
 
-Aprender, construir e melhorar um pouco a cada dia.
+Aprender, praticar e melhorar um pouco a cada dia.
