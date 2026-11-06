@@ -1,29 +1,20 @@
 # Olá, eu sou o Marcos Vinícios Andrade 👋
 
-🎓 Estudante do curso **Desenvolvedor Python Nível Básico** na **Escola do Futuro do Estado de Goiás (EFG) Luiz Rassi**
-📍 Aparecida de Goiânia – GO, Brasil
+Estudo Python na **Escola do Futuro do Estado de Goiás (EFG) Luiz Rassi**, em Aparecida de Goiânia, GO. Uso este perfil para registrar os exercícios do curso e acompanhar minha evolução na programação.
 
-Uso este espaço para registrar meus estudos e os projetos que desenvolvo ao longo do curso.
+## Atividades de Python
 
-## 📚 O que estou aprendendo
+O [repositório de atividades](https://github.com/marcosv-andrade/Atividades-Python-Professor-Igor-EFG-Luiz-Rassi) reúne exercícios das aulas do professor Igor Matheus S. Batista. Você pode navegar direto pelas listas:
 
-- Lógica de programação e algoritmos
-- Python: variáveis, entrada e saída de dados, operações e resolução de problemas
-- Git e GitHub
+- [Aula 2.2](https://github.com/marcosv-andrade/Atividades-Python-Professor-Igor-EFG-Luiz-Rassi/tree/main/atividades)
+- [Lista 3.2](https://github.com/marcosv-andrade/Atividades-Python-Professor-Igor-EFG-Luiz-Rassi/tree/main/atividades%20lista%203.2)
+- [Lista 4.1](https://github.com/marcosv-andrade/Atividades-Python-Professor-Igor-EFG-Luiz-Rassi/tree/main/Lista%204.1) e [Lista 4.2](https://github.com/marcosv-andrade/Atividades-Python-Professor-Igor-EFG-Luiz-Rassi/tree/main/Lista%204.2)
+- [Lista 5.2](https://github.com/marcosv-andrade/Atividades-Python-Professor-Igor-EFG-Luiz-Rassi/tree/main/Python%20B%C3%A1sico%20-%20Lista%205.2)
 
-## 🛠️ Ferramentas
+## O que estou praticando
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- **Python:** variáveis, entrada e saída de dados e estruturas condicionais.
+- **Lógica de programação:** algoritmos e resolução de problemas.
+- **Git e GitHub:** versionamento dos exercícios e organização dos repositórios.
 
-## 📂 Repositório em destaque
-
-- [Atividades de Python — Professor Igor](https://github.com/marcosv-andrade/Atividades-Python-Professor-Igor-EFG-Luiz-Rassi) — atividades e exercícios das aulas do professor Igor Matheus S. Batista, organizados na pasta `atividades/`
-
-## 🎯 Próximos passos
-
-- Publicar pequenos projetos próprios em Python
-- Continuar praticando lógica e algoritmos um pouco a cada dia
-
-> Aprender, praticar e melhorar um pouco a cada dia.
+Meu próximo passo é publicar pequenos projetos próprios em Python.
